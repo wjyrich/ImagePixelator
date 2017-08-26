@@ -40,6 +40,7 @@ public:
 public slots:
     void browseBtnClicked();
     void loadBtnClicked();
+    void saveAsBtnClicked();
     void fitToWindow();
     void resetZoom();
     void dialogFileSelected(QString path);
