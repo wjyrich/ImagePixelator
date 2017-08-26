@@ -11,6 +11,6 @@ Download link: [Win32 binary](https://github.com/Extender/ImagePixelator/raw/mas
 
 ![Input screenshot](ScreenshotInput.png)
 
-### Output
+### Output (pixelated)
 
-![Output screenshot](ScreenshotOutput.png)
+![Output screenshot](ScreenshotPixelated.png)
