@@ -1,0 +1,11 @@
+[Desktop Entry]
+Categories=Accessibility;Qt;Utility;
+Exec=ImagePixelator
+Name=ImagePixelator
+Name[zh_CN]=ImagePixelator
+Icon=ImagePixelator
+StartupNotify=false
+Terminal=false
+Type=Application
+GenericName=ImagePixelator
+Version=1.0

@@ -27,3 +27,11 @@ HEADERS  += mainwindow.h \
     extcolordefs.h
 
 FORMS    += mainwindow.ui
+
+target.path = $$PREFIX/bin
+desktop.files = ImagePixelator.desktop
+desktop.path = $$PREFIX/share/applications/
+icons.path = $$PREFIX/share/icons/hicolor/apps/
+icons.files = ImagePixelator.png
+
+INSTALLS += target desktop icons
